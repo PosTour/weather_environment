@@ -7,4 +7,7 @@
 3. Для сборки контейнера используйте команду: docker compose up (docker-compose up -d)
 4. При необходимости остановить работу контейнера используйте команду: docker compose down
 
-Для реализации полного функционала приложения необходима интеграция с сервисами https://github.com/PosTour/weather и https://github.com/PosTour/weather_bot
+Подразумевается интеграция со следующими сервисами:<br />
+https://github.com/PosTour/weather_bot<br />
+https://github.com/PosTour/WeatherForecastAPI<br />
+https://github.com/PosTour/weather
